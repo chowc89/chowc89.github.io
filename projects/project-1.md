@@ -12,7 +12,7 @@ labels:
 summary: The first interactive game I made with my group in ICS 211.
 ---
 
-<div class="ui images">
+<div class="ui small rounded images">
   <img class="ui image" src="../images/pk1.PNG">
   <img class="ui image" src="../images/pk2.PNG">
   <img class="ui image" src="../images/pk3.PNG">
