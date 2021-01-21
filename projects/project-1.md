@@ -22,3 +22,4 @@ summary: The first interactive game I made with my group in ICS 211.
 
 Pokemon GUI is a small Java GUI project I made with my group. This little interactive game allows user to explore different Pokemons. User can decide whether catch the pokemon or skip catching. When the user decided to catch the Pokemon, there's a chance that pokemon will escape. But if the user catch the Pokemon, the Pokemon will be added to their backpack and Pokedex.
 
+This project gives me an opportunity to practice build the game with the skills I have learned. Although, this game is very simple without any animation effects or player battle system, if we could add more features, it would make this game even better. 
