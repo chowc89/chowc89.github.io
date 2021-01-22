@@ -17,14 +17,6 @@ summary: Web page about PUBG players favorite weapons.
 
 
 
-
---------
--------
--------
-
-
-
-
 <div class="ui rounded images">
   <img class="ui image" src="../images/pubg1.PNG">
   <img class="ui image" src="../images/pubg2.PNG">
