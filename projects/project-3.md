@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/
+image: images/mct.PNG
 title: Money Calculator
 permalink: projects/Money Calculator
 # All dates must be YYYY-MM-DD format!
@@ -11,12 +11,8 @@ labels:
 summary: A Money Calculator that calculate the money return to customers.
 ---
 
-<div class="ui small rounded images">
-  <img class="ui image" src="../images/">
-  <img class="ui image" src="../images/">
-  <img class="ui image" src="../images/">
-  <img class="ui image" src="../images/">
-</div>
+<img class="ui image" src="../images/mc1.PNG">
+  
 
 
 ---
