@@ -14,7 +14,3 @@ summary: A Money Calculator that calculate the money return to customers.
 <img class="ui image" src="../images/mc1.PNG">
   
 
-
----
----
----
