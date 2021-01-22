@@ -13,7 +13,7 @@ summary: Web page about PUBG players favorite weapons.
 ---
 
 
-<img class="ui image" src="../images/">
+<img class="ui image" src="../images/pubg1.PNG">
 
 
 
@@ -26,8 +26,7 @@ Text---
 
 Here is the code:
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/">
-  <img class="ui image" src="../images/">
-  <img class="ui image" src="../images/">
-  <img class="ui image" src="../images/">
+  <img class="ui image" src="../images/pubg2.PNG">
+  <img class="ui image" src="../images/pubg3.PNG">
+  <img class="ui image" src="../images/pubg4.PNG">
 </div>
