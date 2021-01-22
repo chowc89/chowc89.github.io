@@ -23,3 +23,8 @@ The very first time I play with HTML, CSS and js, I made this little web page to
   <img class="ui image" src="../images/pubg4.PNG">
 </div>
 
+<div class="ui small rounded images">
+  <img class="ui image" src="../images/pubg3.PNG">
+  <img class="ui image" src="../images/pubg4.PNG">
+</div>
+
