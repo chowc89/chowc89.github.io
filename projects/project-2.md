@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/
+image: images/pubg.webp
 title: PUBG Weapon List
 permalink: projects/PUBG weapon list
 # All dates must be YYYY-MM-DD format!
