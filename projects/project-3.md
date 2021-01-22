@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/
+image: images/mct.PNG
 title: Money Calculator
 permalink: projects/Money Calculator
 # All dates must be YYYY-MM-DD format!
