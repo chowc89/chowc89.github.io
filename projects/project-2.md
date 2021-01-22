@@ -1,14 +1,15 @@
 ---
 layout: project
 type: project
-image: images/pubg.webp
+image: images/pubgt.jpg
 title: PUBG Weapon List
 permalink: projects/PUBG weapon list
 # All dates must be YYYY-MM-DD format!
 date: 2021-01-20
 labels:
   - HTML
-  - WEB page
+  - CSS
+  - Js
 summary: Web page about PUBG players favorite weapons.
 ---
 
